@@ -25,7 +25,7 @@
 
 ## Overview
 
-This repository contains a complete solution for the **Artificial Neural Networks** course assignment at **Galala University**. The project demonstrates two complementary deep learning approaches for **Handwritten Digit Recognition** using the classic **MNIST dataset**:
+ The project demonstrates two complementary deep learning approaches for **Handwritten Digit Recognition** using the classic **MNIST dataset**:
 
 | Approach | Architecture | Strength |
 |----------|-----------|----------|
@@ -342,11 +342,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## Acknowledgments
 
-- **Galala University** — Faculty of Computers and Artificial Intelligence
-- **Dr. Abdelghany Fathy** — Course instructor and guidance
 - **PyTorch Team** — Deep learning framework
 - **Yann LeCun et al.** — MNIST dataset creators
 
 ---
-
-> 💡 **Note**: This repository is prepared for academic purposes as part of the ANN course requirements at Galala University.

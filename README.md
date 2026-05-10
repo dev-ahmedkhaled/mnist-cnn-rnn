@@ -5,11 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Course](https://img.shields.io/badge/Course-ANN-Galala%20University-purple)](https://gu.edu.eg)
 
-> **Artificial Neural Networks Course Assignment**  
-> Galala University — ANN Course  
-> Discussion Date: Wednesday, 13 May 2026
 
----
 
 ## 📋 Table of Contents
 

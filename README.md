@@ -323,25 +323,7 @@ Softmax
 5. **predictions_cnn.png** — Sample digit predictions (CNN)
 6. **predictions_rnn_lstm.png** — Sample digit predictions (RNN)
 
----
 
-## Team Members
-
-| # | Name | Student ID |
-|---|------|------------|
-| 1 | Ahmed Khaled Abduallah | 223104027 |
-| 2 | Mariam Othman | 223105468 |
-| 3 | Ahmed Allam | 223102168 |
-| 4 | Ahmed Essa | 223106563 |
-| 5 | Salma Nasef | 223103501 |
-| 6 | Ahmed Mostafa Sayed | 223103928 |
-
-**Course**: Artificial Neural Networks  
-**Institution**: Galala University  
-**Instructor**: Dr. Abdelghany Fathy (abdgyd.fathy@GU.edu.eg)  
-**Discussion Date**: Wednesday, 13 May 2026
-
----
 
 ## License
 

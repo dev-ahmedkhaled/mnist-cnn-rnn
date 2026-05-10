@@ -22,7 +22,6 @@
 - [Part B — Numerical Examples](#part-b--numerical-examples)
 - [Project — Python Implementation](#project--python-implementation)
 - [Results](#results)
-- [Team Members](#team-members)
 - [License](#license)
 - [References](#references)
 
